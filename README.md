@@ -1,5 +1,5 @@
 # async
-default 2 days
+default 2 days:
      py main.py
 
 for change days:
